@@ -18,5 +18,6 @@ Model Evaluation:
 
 The performance of the final model was evaluated using various metrics, such as accuracy, precision, recall. The model achieved an accuracy of approximately 95% on the test set.
 
-# Deployment:
+Deployment:
+
 The model was exported and can be used to classify new images of cats and dogs uploaded by users.
